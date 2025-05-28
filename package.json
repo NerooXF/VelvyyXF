@@ -1,0 +1,23 @@
+{
+  "name": "velvyy",
+  "version": "0.0.1",
+  "description": "A multi-functional JavaScript library by NerooXF.",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"No tests yet\""
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "velvyy",
+    "library",
+    "tools",
+    "js",
+    "neroo"
+  ],
+  "author": "NerooXF",
+  "license": "MIT",
+  "dependencies": {}
+}
